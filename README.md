@@ -3,6 +3,7 @@ A git repository combining a login-form built with **HTML, CSS, AND JAVASCRIPT**
 
 This repository contains small JavaScript practice projects that demonstrate working with forms, arrays, conditions, and objects.
 It is mainly for learning and experimenting with core web development concepts.
+And a console.log feature which allows you to view the login details inputed on the frontend via the console...
 
 
 **Features**
